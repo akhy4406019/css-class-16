@@ -1,0 +1,14 @@
+.img-bg{
+    width: 800px;
+    height: 600px;
+    background-image: url('002.jpg');
+    fill: blur(5px);
+    -webkit-filter: blur(5px);
+}
+.content{
+    position: absolute;
+    top: 100px;
+}
+.content h1{
+    color: white;
+}
